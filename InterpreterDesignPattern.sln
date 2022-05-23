@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandmadeInterpreter_Lexing", "HandmadeInterpreter_Lexing\HandmadeInterpreter_Lexing.csproj", "{784682E0-BBDB-4F86-9303-B57ECF2A31CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784682E0-BBDB-4F86-9303-B57ECF2A31CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784682E0-BBDB-4F86-9303-B57ECF2A31CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784682E0-BBDB-4F86-9303-B57ECF2A31CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784682E0-BBDB-4F86-9303-B57ECF2A31CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0761EB4F-839B-4273-B629-485F6D9E4D83}
+	EndGlobalSection
+EndGlobal
